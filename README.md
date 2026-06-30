@@ -132,37 +132,31 @@ This project demonstrates the practical application of **Embedded Systems**, **I
 
 # 📸 Project Preview
 
-> Add your project images here.
+<img width="1280" height="960" alt="SETUP" src="https://github.com/user-attachments/assets/51b9715d-8ce3-4800-a13c-fd8eb1d16980" />
 
 ### 📷 Hardware Setup
 
-<p align="center">
-<img src="Images/setup.jpg" width="800">
-</p>
+<img width="1280" height="960" alt="PROJECTPHOTO" src="https://github.com/user-attachments/assets/89547a86-2907-4584-b961-8bdbf7074f4d" />
 
 ---
 
 ### 💻 Serial Monitor
 
-<p align="center">
-<img src="Images/serial_monitor.jpg" width="800">
-</p>
+<img width="1280" height="960" alt="ARDUINOIDE" src="https://github.com/user-attachments/assets/82d9d6b0-3afa-4e31-988d-dc39c7a0359c" />
 
 ---
 
 ### 📲 Telegram Alert
 
-<p align="center">
-<img src="Images/telegram_alert.jpg" width="350">
-</p>
+<img width="960" height="1280" alt="TELEGRAMBOT" src="https://github.com/user-attachments/assets/e93c5383-eb35-4dbc-9699-db977136eccc" />
 
 ---
 
 ### 🎥 Demo Video
 
-<p align="center">
-<img src="Images/demo.gif" width="900">
-</p>
+
+https://github.com/user-attachments/assets/795e5a37-8793-4eba-bb05-6f554ebfa9fd
+
 
 ---
 
