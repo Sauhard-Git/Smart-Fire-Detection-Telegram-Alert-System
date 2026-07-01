@@ -107,10 +107,7 @@ This project demonstrates the practical application of **Embedded Systems**, **I
 
 - 🌫 Smoke Sensor (MQ-2)
 - 🌡 Temperature Monitoring
-- 🔊 Buzzer Alarm
 - 💡 Emergency LED Indicator
-- ☁ Firebase Cloud Logging
-- 📱 Mobile Dashboard
 - 📍 GPS-Based Location Sharing
 - 📈 Live Sensor Analytics
 - 🏠 Multi-Room Fire Detection
